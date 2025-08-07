@@ -1,1 +1,1 @@
-# Python for Machine Learning and Data Science exercises
+# 💡 Python for Machine Learning and Data Science exercises
